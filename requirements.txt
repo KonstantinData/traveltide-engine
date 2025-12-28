@@ -1,0 +1,33 @@
+# --- Core Data Science Stack ---
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+
+# --- Engineering & Pipeline ---
+# Typer: Für das Command Line Interface (CLI) in main.py
+typer>=0.9.0
+# Pandera: Für Data Validation (Schema Checks) - optional aber empfohlen
+pandera>=0.18.0
+
+# --- Development & Testing ---
+# Pytest: Für deine Unit Tests
+pytest>=8.0.0
+# Ruff: Extrem schneller Linter (ersetzt Flake8/Black)
+ruff>=0.1.0
+# IPykernel: Damit du Notebooks in VS Code/Jupyter nutzen kannst
+ipykernel>=6.0.0
+
+# --- Core Data Science Stack ---
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+pyarrow>=14.0.0
+
+# --- Engineering & Pipeline ---
+typer>=0.9.0
+pandera>=0.18.0
+
+# --- Development & Testing ---
+pytest>=8.0.0
+ruff>=0.1.0
+ipykernel>=6.0.0
